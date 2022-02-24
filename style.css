@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Quintessential', cursive;
+    background-image: linear-gradient(to left bottom, #05370b, #155f2d, #208b53, #23ba80, #12ebb2);
+color:yellow;
+}
+
+.header_div{
+    background-image: radial-gradient(circle, #140948, #003d81, #006da0, #009ba0, #1ac78d);
+    color: white;
+}
+
+.header_div p{
+    font-family: 'Redressed', cursive;  
+    color: plum;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button{
+    font-family: 'Redressed', cursive;
+margin-top:30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 5px;
+font-size: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:plum;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-image: radial-gradient(circle, #140948, #003d81, #006da0, #009ba0, #1ac78d);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px crimson;
+    
+}
